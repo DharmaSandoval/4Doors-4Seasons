@@ -1,4 +1,4 @@
-Quiero darles la bienvenida al momento Beta Tester de 4D4S owo les explicaré rápido, el orden de los niveles es Primavera, Verano, Invierno y Otoño, estos son los controles nwn
+Quiero darles la bienvenida al momento Beta Tester de 4D4S owo les explicaré rápido, el orden de los niveles es Primavera, Verano, Invierno y Otoño, estos son los controles.
 
 WASD - Avanzar
 P - Pausa
